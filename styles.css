@@ -1,0 +1,1157 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 3003px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 3003px;
+	 z-index:1;
+} 
+
+ #Shape1copy10 
+{ 
+	 left: -1px; 
+	 top: 139px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 942px;
+	 z-index:2;
+} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1278px;
+	 z-index:3;
+} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1186px;
+	 z-index:4;
+} 
+
+ #layer_5 
+{ 
+	 left: 949px; 
+	 top: 1039px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 21px;
+	 z-index:5;
+} 
+
+ #OnlineMedicalstore 
+{ 
+	 left: 374px; 
+	 top: 239px; 
+	 position: absolute; 
+	 width: 572px;
+	 height: 36px;
+	 z-index:6;
+} 
+
+ #Vestibulumorcierosse 
+{ 
+	 left: 375px; 
+	 top: 316px; 
+	 position: absolute; 
+	 width: 555px;
+	 height: 68px;
+	 z-index:7;
+} 
+
+ #Layer10copy 
+{ 
+	 left: 375px; 
+	 top: 294px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 3px;
+	 z-index:8;
+} 
+
+ #Layer3 
+{ 
+	 left: 375px; 
+	 top: 399px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 340px;
+	 z-index:9;
+} 
+
+ #Searchnearbymedicals 
+{ 
+	 left: 394px; 
+	 top: 419px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 20px;
+	 z-index:10;
+} 
+
+ #Shape2copy2 
+{ 
+	 left: 394px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 532px;
+	 height: 39px;
+	 z-index:11;
+} 
+
+ #Location 
+{ 
+	 left: 416px; 
+	 top: 470px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 14px;
+	 z-index:12;
+} 
+
+ #layer_13 
+{ 
+	 left: 892px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 8px;
+	 z-index:13;
+} 
+
+ #Shape2copy2_0 
+{ 
+	 left: 394px; 
+	 top: 514px; 
+	 position: absolute; 
+	 width: 532px;
+	 height: 39px;
+	 z-index:14;
+} 
+
+ #City 
+{ 
+	 left: 417px; 
+	 top: 526px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 17px;
+	 z-index:15;
+} 
+
+ #layer_16 
+{ 
+	 left: 892px; 
+	 top: 529px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 8px;
+	 z-index:16;
+} 
+
+ #Shape2copy2_1 
+{ 
+	 left: 394px; 
+	 top: 570px; 
+	 position: absolute; 
+	 width: 532px;
+	 height: 39px;
+	 z-index:17;
+} 
+
+ #State 
+{ 
+	 left: 416px; 
+	 top: 582px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 14px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 892px; 
+	 top: 585px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 8px;
+	 z-index:19;
+} 
+
+ #Shape2copy2_2 
+{ 
+	 left: 394px; 
+	 top: 626px; 
+	 position: absolute; 
+	 width: 532px;
+	 height: 39px;
+	 z-index:20;
+} 
+
+ #Pincode 
+{ 
+	 left: 416px; 
+	 top: 638px; 
+	 position: absolute; 
+	 width: 58px;
+	 height: 14px;
+	 z-index:21;
+} 
+
+ #Shape2copy2_3 
+{ 
+	 left: 394px; 
+	 top: 682px; 
+	 position: absolute; 
+	 width: 532px;
+	 height: 39px;
+	 z-index:22;
+} 
+
+ #Submit 
+{ 
+	 left: 635px; 
+	 top: 694px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 14px;
+	 z-index:23;
+} 
+
+ #OMS 
+{ 
+	 left: 375px; 
+	 top: 69px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 39px;
+	 z-index:24;
+} 
+
+ #OnlineMedicalstore_0 
+{ 
+	 left: 377px; 
+	 top: 112px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 10px;
+	 z-index:25;
+} 
+
+ #Whoweare 
+{ 
+	 left: 618px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 14px;
+	 z-index:26;
+} 
+
+ #WhatsNew 
+{ 
+	 left: 736px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 14px;
+	 z-index:27;
+} 
+
+ #FindHospital 
+{ 
+	 left: 854px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 17px;
+	 z-index:28;
+} 
+
+ #Newsupdates 
+{ 
+	 left: 979px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 17px;
+	 z-index:29;
+} 
+
+ #BeHealthy 
+{ 
+	 left: 1129px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 17px;
+	 z-index:30;
+} 
+
+ #Contactus 
+{ 
+	 left: 1237px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 14px;
+	 z-index:31;
+} 
+
+ #Shape1copy11 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 52px;
+	 z-index:32;
+} 
+
+ #CALLUSON17001070107 
+{ 
+	 left: 447px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 1026px;
+	 height: 19px;
+	 z-index:33;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 416px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 20px;
+	 z-index:34;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 687px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 18px;
+	 z-index:35;
+} 
+
+ #VectorSmartObject_1 
+{ 
+	 left: 879px; 
+	 top: 14px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 22px;
+	 z-index:36;
+} 
+
+ #VectorSmartObject_2 
+{ 
+	 left: 1155px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 18px;
+	 z-index:37;
+} 
+
+ #VectorSmartObject_3 
+{ 
+	 left: 1412px; 
+	 top: 14px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 22px;
+	 z-index:38;
+} 
+
+ #VectorSmartObject_4 
+{ 
+	 left: 1486px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:39;
+} 
+
+ #layer_40 
+{ 
+	 left: 1494px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 13px;
+	 z-index:40;
+} 
+
+ #Shape2copy2_4 
+{ 
+	 left: 1344px; 
+	 top: 85px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 39px;
+	 z-index:41;
+} 
+
+ #VectorSmartObject_5 
+{ 
+	 left: 1515px; 
+	 top: 95px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 18px;
+	 z-index:42;
+} 
+
+ #Search 
+{ 
+	 left: 1360px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 14px;
+	 z-index:43;
+} 
+
+ #Shape2copy7 
+{ 
+	 left: 374px; 
+	 top: 1213px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 363px;
+	 z-index:44;
+} 
+
+ #Shape2copy4 
+{ 
+	 left: 375px; 
+	 top: 1214px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 182px;
+	 z-index:45;
+} 
+
+ #Layer4 
+{ 
+	 left: 376px; 
+	 top: 1215px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 187px;
+	 z-index:46;
+} 
+
+ #LatestDrug 
+{ 
+	 left: 456px; 
+	 top: 1417px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 14px;
+	 z-index:47;
+} 
+
+ #Pellentesquefringill 
+{ 
+	 left: 388px; 
+	 top: 1450px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 82px;
+	 z-index:48;
+} 
+
+ #Shape2copy2_5 
+{ 
+	 left: 440px; 
+	 top: 1556px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 39px;
+	 z-index:49;
+} 
+
+ #ReadMore 
+{ 
+	 left: 467px; 
+	 top: 1568px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 14px;
+	 z-index:50;
+} 
+
+ #Shape2copy 
+{ 
+	 left: 670px; 
+	 top: 1213px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 363px;
+	 z-index:51;
+} 
+
+ #Shape2copy9 
+{ 
+	 left: 671px; 
+	 top: 1214px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 182px;
+	 z-index:52;
+} 
+
+ #Layer5 
+{ 
+	 left: 673px; 
+	 top: 1216px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 182px;
+	 z-index:53;
+} 
+
+ #Shape2copy5 
+{ 
+	 left: 899px; 
+	 top: 1214px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 53px;
+	 z-index:54;
+} 
+
+ #NEW 
+{ 
+	 left: 919px; 
+	 top: 1220px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 29px;
+	 z-index:55;
+} 
+
+ #Multispecialisthospi 
+{ 
+	 left: 688px; 
+	 top: 1417px; 
+	 position: absolute; 
+	 width: 248px;
+	 height: 14px;
+	 z-index:56;
+} 
+
+ #Donecconsecteturquis 
+{ 
+	 left: 685px; 
+	 top: 1450px; 
+	 position: absolute; 
+	 width: 256px;
+	 height: 82px;
+	 z-index:57;
+} 
+
+ #Shape2copy2_6 
+{ 
+	 left: 736px; 
+	 top: 1556px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 39px;
+	 z-index:58;
+} 
+
+ #ReadMore_0 
+{ 
+	 left: 763px; 
+	 top: 1568px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 14px;
+	 z-index:59;
+} 
+
+ #Shape2copy_0 
+{ 
+	 left: 966px; 
+	 top: 1213px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 363px;
+	 z-index:60;
+} 
+
+ #Shape2copy6 
+{ 
+	 left: 967px; 
+	 top: 1214px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 182px;
+	 z-index:61;
+} 
+
+ #Layer6 
+{ 
+	 left: 967px; 
+	 top: 1216px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 224px;
+	 z-index:62;
+} 
+
+ #Newsupdates_0 
+{ 
+	 left: 1030px; 
+	 top: 1417px; 
+	 position: absolute; 
+	 width: 156px;
+	 height: 14px;
+	 z-index:63;
+} 
+
+ #NuncsedtempusmassaSu 
+{ 
+	 left: 981px; 
+	 top: 1450px; 
+	 position: absolute; 
+	 width: 256px;
+	 height: 82px;
+	 z-index:64;
+} 
+
+ #Shape2copy2_7 
+{ 
+	 left: 1032px; 
+	 top: 1556px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 39px;
+	 z-index:65;
+} 
+
+ #ReadMore_1 
+{ 
+	 left: 1059px; 
+	 top: 1568px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 14px;
+	 z-index:66;
+} 
+
+ #Shape2copy_1 
+{ 
+	 left: 1262px; 
+	 top: 1213px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 363px;
+	 z-index:67;
+} 
+
+ #Shape2copy3 
+{ 
+	 left: 1263px; 
+	 top: 1214px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 182px;
+	 z-index:68;
+} 
+
+ #Layer7 
+{ 
+	 left: 1263px; 
+	 top: 1216px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 187px;
+	 z-index:69;
+} 
+
+ #Healthtips 
+{ 
+	 left: 1349px; 
+	 top: 1417px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 14px;
+	 z-index:70;
+} 
+
+ #Maurisloremnislfauci 
+{ 
+	 left: 1277px; 
+	 top: 1450px; 
+	 position: absolute; 
+	 width: 256px;
+	 height: 82px;
+	 z-index:71;
+} 
+
+ #Shape2copy2_8 
+{ 
+	 left: 1328px; 
+	 top: 1556px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 39px;
+	 z-index:72;
+} 
+
+ #ReadMore_2 
+{ 
+	 left: 1355px; 
+	 top: 1568px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 14px;
+	 z-index:73;
+} 
+
+ #aliquamconvallissems 
+{ 
+	 left: 672px; 
+	 top: 1130px; 
+	 position: absolute; 
+	 width: 572px;
+	 height: 23px;
+	 z-index:74;
+} 
+
+ #Layer10 
+{ 
+	 left: 930px; 
+	 top: 1172px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 3px;
+	 z-index:75;
+} 
+
+ #Shape1copy9 
+{ 
+	 left: -1px; 
+	 top: 1642px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1032px;
+	 z-index:76;
+} 
+
+ #Duistinciduntblandit 
+{ 
+	 left: 773px; 
+	 top: 1693px; 
+	 position: absolute; 
+	 width: 374px;
+	 height: 23px;
+	 z-index:77;
+} 
+
+ #Pellentesquefringill_0 
+{ 
+	 left: 575px; 
+	 top: 1753px; 
+	 position: absolute; 
+	 width: 771px;
+	 height: 17px;
+	 z-index:78;
+} 
+
+ #Layer10_0 
+{ 
+	 left: 930px; 
+	 top: 1735px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 3px;
+	 z-index:79;
+} 
+
+ #Shape2copy_2 
+{ 
+	 left: 373px; 
+	 top: 1798px; 
+	 position: absolute; 
+	 width: 403px;
+	 height: 403px;
+	 z-index:80;
+} 
+
+ #Layer12 
+{ 
+	 left: 205px; 
+	 top: 1800px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 400px;
+	 z-index:81;
+} 
+
+ #Shape2copy8 
+{ 
+	 left: 773px; 
+	 top: 1798px; 
+	 position: absolute; 
+	 width: 773px;
+	 height: 403px;
+	 z-index:82;
+} 
+
+ #Newtrendinmedicalsci 
+{ 
+	 left: 855px; 
+	 top: 1841px; 
+	 position: absolute; 
+	 width: 487px;
+	 height: 23px;
+	 z-index:83;
+} 
+
+ #Layer11 
+{ 
+	 left: 855px; 
+	 top: 1883px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 3px;
+	 z-index:84;
+} 
+
+ #Nullaconvallismauris 
+{ 
+	 left: 855px; 
+	 top: 1916px; 
+	 position: absolute; 
+	 width: 618px;
+	 height: 185px;
+	 z-index:85;
+} 
+
+ #Shape2copy2_9 
+{ 
+	 left: 854px; 
+	 top: 2126px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 39px;
+	 z-index:86;
+} 
+
+ #ReadMore_3 
+{ 
+	 left: 881px; 
+	 top: 2138px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 14px;
+	 z-index:87;
+} 
+
+ #Shape2copy_3 
+{ 
+	 left: 1144px; 
+	 top: 2228px; 
+	 position: absolute; 
+	 width: 403px;
+	 height: 403px;
+	 z-index:88;
+} 
+
+ #Layer13 
+{ 
+	 left: 945px; 
+	 top: 2230px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 400px;
+	 z-index:89;
+} 
+
+ #Shape2copy8_0 
+{ 
+	 left: 373px; 
+	 top: 2228px; 
+	 position: absolute; 
+	 width: 773px;
+	 height: 403px;
+	 z-index:90;
+} 
+
+ #TipsforYoga 
+{ 
+	 left: 453px; 
+	 top: 2271px; 
+	 position: absolute; 
+	 width: 219px;
+	 height: 23px;
+	 z-index:91;
+} 
+
+ #Layer11_0 
+{ 
+	 left: 455px; 
+	 top: 2313px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 3px;
+	 z-index:92;
+} 
+
+ #Curabituratconsectet 
+{ 
+	 left: 454px; 
+	 top: 2346px; 
+	 position: absolute; 
+	 width: 619px;
+	 height: 185px;
+	 z-index:93;
+} 
+
+ #Shape2copy2_10 
+{ 
+	 left: 454px; 
+	 top: 2556px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 39px;
+	 z-index:94;
+} 
+
+ #ReadMore_4 
+{ 
+	 left: 481px; 
+	 top: 2568px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 14px;
+	 z-index:95;
+} 
+
+ #Shape1copy9_0 
+{ 
+	 left: -1px; 
+	 top: 2672px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 332px;
+	 z-index:96;
+} 
+
+ #2016OnlineMedicalSto 
+{ 
+	 left: 378px; 
+	 top: 2773px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 41px;
+	 z-index:97;
+} 
+
+ #VectorSmartObject_6 
+{ 
+	 left: 1296px; 
+	 top: 2745px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 44px;
+	 z-index:98;
+} 
+
+ #VectorSmartObject_7 
+{ 
+	 left: 1313px; 
+	 top: 2755px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 24px;
+	 z-index:99;
+} 
+
+ #VectorSmartObjectcop 
+{ 
+	 left: 1346px; 
+	 top: 2745px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 44px;
+	 z-index:100;
+} 
+
+ #VectorSmartObject_8 
+{ 
+	 left: 1356px; 
+	 top: 2757px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 21px;
+	 z-index:101;
+} 
+
+ #VectorSmartObjectcop_0 
+{ 
+	 left: 1397px; 
+	 top: 2745px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 44px;
+	 z-index:102;
+} 
+
+ #VectorSmartObject_9 
+{ 
+	 left: 1409px; 
+	 top: 2756px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:103;
+} 
+
+ #VectorSmartObjectcop_1 
+{ 
+	 left: 1448px; 
+	 top: 2745px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 44px;
+	 z-index:104;
+} 
+
+ #VectorSmartObject_10 
+{ 
+	 left: 1460px; 
+	 top: 2757px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 21px;
+	 z-index:105;
+} 
+
+ #VectorSmartObjectcop_2 
+{ 
+	 left: 1499px; 
+	 top: 2745px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 44px;
+	 z-index:106;
+} 
+
+ #VectorSmartObject_11 
+{ 
+	 left: 1509px; 
+	 top: 2759px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 17px;
+	 z-index:107;
+} 
+
+ #OMS_0 
+{ 
+	 left: 375px; 
+	 top: 2702px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 39px;
+	 z-index:108;
+} 
+
+ #OnlineMedicalstore_1 
+{ 
+	 left: 377px; 
+	 top: 2745px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 10px;
+	 z-index:109;
+} 
+
+ #AboutUs 
+{ 
+	 left: 675px; 
+	 top: 2702px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 19px;
+	 z-index:110;
+} 
+
+ #AboutOnlineMedicalSt 
+{ 
+	 left: 675px; 
+	 top: 2739px; 
+	 position: absolute; 
+	 width: 206px;
+	 height: 229px;
+	 z-index:111;
+} 
+
+ #PharmacyServices 
+{ 
+	 left: 976px; 
+	 top: 2702px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 19px;
+	 z-index:112;
+} 
+
+ #wewillbeintouch 
+{ 
+	 left: 1277px; 
+	 top: 2702px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 19px;
+	 z-index:113;
+} 
+
+ #MedicineInformationR 
+{ 
+	 left: 975px; 
+	 top: 2739px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 85px;
+	 z-index:114;
+} 
